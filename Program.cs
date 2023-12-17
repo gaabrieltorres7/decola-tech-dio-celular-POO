@@ -9,7 +9,7 @@ iphone.ReceberLigacao();
 
 Console.WriteLine("\nNokia \n");
 
-var nokia = new Nokia("81999999999", "Nokia Tijolão", "12345678964336", 128);
+var nokia = new Nokia("81999999999", "Nokia Tijolão", "111111-11-111111-1", 128);
 nokia.Ligar();
 nokia.InstalarAplicativo("Instagram");
 nokia.ReceberLigacao();
